@@ -72,10 +72,10 @@
           <mxGeometry x="30" y="60" width="220" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="1aP6Pm_1GpO8_lUHxNCs-64" value="AddWidgetRendererUpdate" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="50" y="110" width="140" height="30" as="geometry" />
+          <mxGeometry x="70" y="103.75" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aP6Pm_1GpO8_lUHxNCs-80" value="绘制贴至RenderTarget(RenderThread)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="10" y="60" width="260" height="30" as="geometry" />
+        <mxCell id="1aP6Pm_1GpO8_lUHxNCs-80" value="绘制贴至RenderTarget(RenderThread)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFD966;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="35" y="63" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aP6Pm_1GpO8_lUHxNCs-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="1aP6Pm_1GpO8_lUHxNCs-4" target="77e6c97f196da883-11">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="418" />
-              <mxPoint x="710" y="145" />
+              <mxPoint x="710" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
